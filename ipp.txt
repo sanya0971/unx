@@ -1,0 +1,9 @@
+yandex  32.45.56.12     yandex.ru
+rambler 67.77.88.99     rambler.ru
+google  99.12.132.12    google.com
+hsa     87.98.33.23     hsa.com
+ysq     87.98.33.23     ysq.com
+trty    32.45.56.12     trty.ru
+wq      99.12.132.12    wq.by
+rew     99.12.132.12    rew.com
+tyy     99.12.132.12    tyy.com
